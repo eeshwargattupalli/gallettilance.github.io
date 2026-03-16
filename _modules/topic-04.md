@@ -27,16 +27,16 @@ title: Classification
 </tr>
 <tr>
 <td>Mar 30</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_15/15_Recommender_Systems.pdf">Recommender Systems</a> + MIDTERM 2 LAUNCH</td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_15/15_Recommender_Systems.pdf">Recommender Systems</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_14/14_Support_Vector_Machines.pdf">Support Vector Machines (linear)</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_14/worksheet_14.ipynb">worksheet</a></td>
 </tr>
 <tr>
 <td>Apr 1</td>
-<td>MIDTERM REVIEW + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_14/14_Support_Vector_Machines.pdf">Support Vector Machines (linear)</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_14/worksheet_14.ipynb">worksheet</a></td>
+<td>APPLIED MIDTERM LAUNCH</td>
 <td rowspan="2"><strong class="label label-purple">LAB 9</strong> Recommender Systems and Linear SVMs</td>
 </tr>
 <tr>
 <td>Apr 6</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_14/14_Support_Vector_Machines.pdf">Support Vector Machines (non linear)</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_14/worksheet_14.ipynb">worksheet</a></td>
+<td>MIDTERM REVIEW + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_14/14_Support_Vector_Machines.pdf">Support Vector Machines (non linear)</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_14/worksheet_14.ipynb">worksheet</a></td>
 </tr>
 </tbody>
 </table>
